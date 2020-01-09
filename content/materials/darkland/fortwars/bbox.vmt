@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/fortwars/bbox"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

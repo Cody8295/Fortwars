@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/fortwars/timerhud1"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

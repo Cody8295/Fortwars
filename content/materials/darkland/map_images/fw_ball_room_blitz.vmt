@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/map_images/fw_ball_room_blitz"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

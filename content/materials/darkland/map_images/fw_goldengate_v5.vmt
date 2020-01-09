@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/map_images/fw_goldengate_v5"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

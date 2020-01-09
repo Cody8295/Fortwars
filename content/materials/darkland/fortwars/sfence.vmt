@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/fortwars/sfence"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

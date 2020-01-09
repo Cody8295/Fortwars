@@ -1,0 +1,12 @@
+"DarklandFortwars"
+{
+    "base"	"base"
+	"title"		"DarklandFortwars"
+	"version"	"0.0"
+	"author_name"	"Darkspider / SW / revived by cody8295"
+	"author_email"	""
+	"author_url"	""
+	
+	"menusystem"		"1"
+
+}

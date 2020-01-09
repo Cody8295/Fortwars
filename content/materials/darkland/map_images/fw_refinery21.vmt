@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/map_images/fw_refinery21"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

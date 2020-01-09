@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "darkland/map_images/fw_hulkcave_beta_d_d"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}
